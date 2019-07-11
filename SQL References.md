@@ -1,4 +1,4 @@
-SQL References
+# SQL References
 
 The following text will only serve as a reference and will only give a brief overview of SQL syntaxes and its capabilities. It goes over the most commonly used statements and the most common mistakes. The examples are designed to be brief but contain as much different statements in certain cases to illustrate the capabilities of SQL. The information contained in here will not be complete as the text only serves as a reference.
 
